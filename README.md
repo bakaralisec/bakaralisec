@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bakaralisec
-- 👀 I’m interested in Cyber Security and Information Security.
+- 👀 Working in Cyber Security and Information Security.
 - 🌱 I’m currently learning reverseshell.
-- 💞️ I’m looking to collaborate on open prohect related to organizaton security.
+- 💞️ I’m looking to collaborate on open project related to organizaton security.
 - 📫 How to reach me ...
 
 <!---
